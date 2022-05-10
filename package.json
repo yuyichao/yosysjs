@@ -1,6 +1,6 @@
 {
   "name": "yosysjs",
-  "version": "0.16.1",
+  "version": "0.17.1",
   "description": "Emscripten build of yosys",
   "main": "dist/yosys.js",
   "scripts": {
