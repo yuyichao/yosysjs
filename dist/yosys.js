@@ -995,7 +995,7 @@ function dbg(...args) {
 // === Body ===
 
 var ASM_CONSTS = {
-  8751480: () => { if (0 && ENVIRONMENT_IS_NODE) { FS.mkdir('/hostcwd'); FS.mount(NODEFS, { root: '.' }, '/hostcwd'); FS.mkdir('/hostfs'); FS.mount(NODEFS, { root: '/' }, '/hostfs'); } }
+  8761960: () => { if (0 && ENVIRONMENT_IS_NODE) { FS.mkdir('/hostcwd'); FS.mount(NODEFS, { root: '.' }, '/hostcwd'); FS.mkdir('/hostfs'); FS.mount(NODEFS, { root: '/' }, '/hostfs'); } }
 };
 
 // end include: preamble.js
@@ -5400,7 +5400,7 @@ var dynCall_jiji = Module['dynCall_jiji'] = createExportWrapper('dynCall_jiji');
 var dynCall_iiiiij = Module['dynCall_iiiiij'] = createExportWrapper('dynCall_iiiiij');
 var dynCall_iiiiijj = Module['dynCall_iiiiijj'] = createExportWrapper('dynCall_iiiiijj');
 var dynCall_iiiiiijj = Module['dynCall_iiiiiijj'] = createExportWrapper('dynCall_iiiiiijj');
-var ___emscripten_embedded_file_data = Module['___emscripten_embedded_file_data'] = 8699352;
+var ___emscripten_embedded_file_data = Module['___emscripten_embedded_file_data'] = 8709808;
 
 // include: postamble.js
 // === Auto-generated postamble setup entry stuff ===
